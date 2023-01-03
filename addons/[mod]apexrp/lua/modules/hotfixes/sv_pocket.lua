@@ -1,0 +1,7 @@
+-- hook.Add("PlayerSpawn", "Resetpocketonspawn", function(ply)
+--     if ply.Pocket == nil then
+--         return
+--     else
+--         ply.Pocket = nil
+--     end
+-- end)

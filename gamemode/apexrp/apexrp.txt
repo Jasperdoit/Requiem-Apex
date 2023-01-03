@@ -1,0 +1,17 @@
+"apexrp"
+{
+    "base"          "sandbox"
+    "title"         "Apex HL2RP"
+    "version"       "2.7.0"
+    "category"      "rp"
+    "menusystem"    "1"
+    "workshopid"    "248302805"
+
+    "author_name"   "fuck darkrp 2.4.3"
+    "author_email"  ""
+    "author_url"    "https://github.com/FPtje/DarkRP"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

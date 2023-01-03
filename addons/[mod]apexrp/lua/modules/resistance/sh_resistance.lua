@@ -1,0 +1,3 @@
+resistance = resistance or {
+	Data = {}
+};
