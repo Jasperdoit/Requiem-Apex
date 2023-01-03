@@ -16,6 +16,8 @@ Credit to the following people for making this project what it is:
   
   Vin
   
+  AloneWitness
+  
   ## TEAM REQUIEM
   
   Adrian Sheppard
@@ -34,4 +36,4 @@ Credit to the following people for making this project what it is:
   
   Gyarik
 
-  AloneWitness
+
